@@ -2,7 +2,7 @@
 
 Final project of **Statistical Methods for Economics Analysis** in the academic year 2023/2024
 
-## Components
+## Contributors
 
 - Francesco Colzi
 - Daniel Vito Lobasso
